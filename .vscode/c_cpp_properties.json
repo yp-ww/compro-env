@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "compro-env",
+            "name": "compro-devcontainer",
             "includePath": [
                 "${workspaceFolder}",
                 "${workspaceFolder}/ac-library/"
