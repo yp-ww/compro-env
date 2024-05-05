@@ -2,9 +2,6 @@
     // Specifies the name of the Dev Container
     "name": "compro-dev-container",
 
-    // Specifies the Docker image to use for the Dev Container
-    "image": "compro-docker-image:latest",
-
     // Specifies the Dockerfile to use for building the container image
     "dockerFile": "../Dockerfile",
 
@@ -22,5 +19,5 @@
                 "vscodevim.vim"
             ]
         }
-    },
+    }
 }
