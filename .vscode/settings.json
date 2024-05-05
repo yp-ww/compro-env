@@ -1,8 +1,10 @@
 {
     "code-runner.executorMap": {
         "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
-        "python": "python -u",
+        "python": "python -u"
     },
     "code-runner.runInTerminal": true,
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "editor.snippetSuggestions": "top",
+    "editor.snippetFolder": "./.vscode/snippets"
 }
