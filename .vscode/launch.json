@@ -8,7 +8,6 @@
             "program": "${fileDirname}/${fileBasenameNoExtension}.out",
             "args": [],
             "cwd": "${fileDirname}",
-            "externalConsole": true,
             "MIMode": "lldb",
             "initCommands": [
                 "settings set target.disable-aslr false"
