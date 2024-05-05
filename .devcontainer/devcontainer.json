@@ -5,9 +5,6 @@
     // Specifies the Dockerfile to use for building the container image
     "dockerFile": "../Dockerfile",
 
-    // Specifies the default user to use inside the container
-    "remoteUser": "vscode",
-
     // Install additional extensions for VS Code
     "customizations": {       
         "vscode": {
