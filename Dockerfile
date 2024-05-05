@@ -14,8 +14,8 @@ RUN apt-get update && \
     python3-pip \
     python3-dev \
     git \
-	  openssh-client
-    && rm -rf /var/lib/apt/lists/*
+    openssh-client && \
+    rm -rf /var/lib/apt/lists/*
 
 # Add GitHub to known hosts
 RUN mkdir -p /root/.ssh && \
