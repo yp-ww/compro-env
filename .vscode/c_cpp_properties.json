@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "compro-env",
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/ac-library/"
+            ],
+            "compilerPath": "/usr/bin/g++",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "linux-gcc-x64""
+        }
+    ],
+    "version": 4
+}
