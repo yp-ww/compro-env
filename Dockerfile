@@ -14,6 +14,7 @@ RUN apt-get update && \
     python3-pip \
     python3-dev \
     git \
+    gdb \
     openssh-client && \
     rm -rf /var/lib/apt/lists/*
 
