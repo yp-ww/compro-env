@@ -10,11 +10,11 @@ RUN apt-get update && \
     build-essential \
     gcc \
     g++ \
+    gdb \
     python3 \
     python3-pip \
     python3-dev \
     git \
-    gdb \
     openssh-client && \
     rm -rf /var/lib/apt/lists/*
 
