@@ -1,6 +1,6 @@
 {
     "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "cpp": "cd $dir && g++ $fileName -I $workspaceRoot/ac-library -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
         "python": "python -u"
     },
     "code-runner.runInTerminal": true,
