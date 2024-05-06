@@ -5,6 +5,6 @@ int main() {
     cout << "Hello World!!" << endl;
     int a, b;
     cin >> a >> b;
-    cout << a + b << endl;    
+    cout << "a+b: " << a + b << endl;    
     return 0;
 }
