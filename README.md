@@ -23,7 +23,7 @@ This repository provides a development environment setup for competitive program
 1. Clone this repository locally:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/yp-ww/compro-env.git
     ```
 
 2. Open the "/compro-env" directory in VSCode and reopen it in the container.
