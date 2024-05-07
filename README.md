@@ -28,7 +28,7 @@ This repository provides a development environment setup for competitive program
 
 2. Open the "/compro-env" directory in VSCode and reopen it in the container.
 
-3. Finally, compile and execute test.cpp or test.py to test the setup.
+3. Finally, compile and execute `test.cpp` or `test.py` to test the setup.
 
 ## Usage
 
