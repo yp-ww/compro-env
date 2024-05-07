@@ -5,7 +5,7 @@ This repository provides a development environment setup for competitive program
 ## Features
 
 - Easy setup process
-- Support for C++ and Python
+- Support for C++ and Python3
 - VSCode debugger is available
 - Includes AC (AtCoder) Library ([GitHub](https://github.com/atcoder/ac-library))
 
