@@ -30,10 +30,10 @@ This repository provides a development environment setup for competitive program
 
 3. Fetch the contents of the submodules separately. Run the following commands:
 
-```bash
-git submodule init
-git submodule update
-```
+    ```bash
+    git submodule init
+    git submodule update
+    ```
 
 ４. Finally, compile and execute `test.cpp` or `test.py` to test the setup.
 
