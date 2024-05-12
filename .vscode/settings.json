@@ -11,7 +11,4 @@
         "comments": true,
         "strings": true
     },
-    "files.associations": {
-        "iostream": "cpp"
-    },
 }
