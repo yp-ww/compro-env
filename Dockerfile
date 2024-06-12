@@ -25,9 +25,3 @@ RUN mkdir -p /root/.ssh && \
 
 # Set up a working directory
 WORKDIR /workspace
-
-# Set the default shell to bash
-SHELL ["/bin/bash", "-c"]
-
-# Set the default command to bash shell
-CMD ["/bin/bash"]
