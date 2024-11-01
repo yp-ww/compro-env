@@ -21,5 +21,3 @@ RUN apt-get update && \
 
 RUN git config --global core.autocrlf true
 
-# Set up a working directory
-WORKDIR /workspace
